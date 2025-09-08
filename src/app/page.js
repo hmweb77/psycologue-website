@@ -456,8 +456,8 @@ const Home = () => {
                       <Star key={i} className="w-5 h-5 text-yellow-400" fill="currentColor" />
                     ))}
                   </div>
-                  <p className="text-gray-700 leading-relaxed mb-6 italic">"{testimonial.text}"</p>
-                  <p className="text-gray-600 font-semibold">– {testimonial.name}</p>
+                  <p className="text-gray-700 leading-relaxed mb-6 italic">&quot;{testimonial.text}&quot;</p>
+                  <p className="text-gray-600 font-semibold"> {testimonial.name}</p>
                 </motion.div>
               ))}
             </motion.div>

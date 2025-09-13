@@ -521,7 +521,7 @@ const Home = () => {
             >
               <h2 className="text-4xl lg:text-5xl font-bold text-gray-800 mb-4">Book Your Session</h2>
               <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-                Choose a convenient time for your appointment. I'm here to support your journey to mental wellness.
+                Choose a convenient time for your appointment. I`&apos;`m here to support your journey to mental wellness.
               </p>
             </motion.div>
 
